@@ -1,0 +1,2 @@
+export const SET_SEACRHED_DATA = "SET_SEACRHED_DATA";
+export const SET_POST_DATA = "SET_POST_DATA"

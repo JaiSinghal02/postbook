@@ -1,0 +1,31 @@
+.post-container{
+    min-height: 480px;
+}
+.post-with-loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post-postcard-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 430px;
+}
+.post-postcard-div{
+    display: flex;
+    justify-content: space-evenly;
+    min-height: 300px;
+    width: 100%;
+}
+.post-pagination-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post-pagination button[class~="Mui-selected"]{
+    background-color: brown;
+}
+.post-pagination button[class~="Mui-selected"]:hover{
+    background-color: brown;
+}
